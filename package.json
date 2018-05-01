@@ -1,0 +1,36 @@
+{
+  "name": "whsm",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "awesome-typescript-loader": "^5.0.0-1",
+    "express": "~4.16.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "serve-favicon": "^2.5.0",
+    "tslib": "^1.9.0",
+    "typescript": "^2.8.3"
+  },
+  "devDependencies": {
+    "@types/prop-types": "^15.5.2",
+    "@types/react": "^16.3.13",
+    "@types/react-dom": "^16.0.5",
+    "@types/serve-favicon": "^2.2.30",
+    "@types/typescript": "^2.0.0",
+    "@types/webpack-dev-middleware": "^2.0.1",
+    "@types/webpack-hot-middleware": "^2.16.3",
+    "css-loader": "^0.28.11",
+    "json-loader": "^0.5.7",
+    "mini-css-extract-plugin": "^0.4.0",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.1.2",
+    "webpack-dev-middleware": "^3.1.3",
+    "webpack-hot-middleware": "^2.22.1",
+    "webpack-hot-server-middleware": "^0.5.0",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
